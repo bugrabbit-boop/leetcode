@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 |  |
@@ -36,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/bugrabbit-boop/leetcode/tree/master/0006-zigzag-conversion) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

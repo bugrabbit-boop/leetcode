@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bugrabbit-boop/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bugrabbit-boop/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

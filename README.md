@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/bugrabbit-boop/leetcode/tree/main/0050-powx-n/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bugrabbit-boop/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

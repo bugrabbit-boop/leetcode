@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

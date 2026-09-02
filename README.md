@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/bugrabbit-boop/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bugrabbit-boop/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Manacher
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bugrabbit-boop/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -131,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

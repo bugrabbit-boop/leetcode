@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bugrabbit-boop/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/bugrabbit-boop/leetcode/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bugrabbit-boop/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

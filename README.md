@@ -42,7 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bugrabbit-boop/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
-| [0125-valid-palindrome](https://github.com/bugrabbit-boop/leetcode/tree/master/0125-valid-palindrome) |
+| [0125-valid-palindrome](https://github.com/bugrabbit-boop/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -79,7 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bugrabbit-boop/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
-| [0125-valid-palindrome](https://github.com/bugrabbit-boop/leetcode/tree/master/0125-valid-palindrome) |
+| [0125-valid-palindrome](https://github.com/bugrabbit-boop/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0344-reverse-string) |
 ## Manacher
 |  |

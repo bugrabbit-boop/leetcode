@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bugrabbit-boop/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/bugrabbit-boop/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -29,8 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
@@ -48,33 +49,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/bugrabbit-boop/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/bugrabbit-boop/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bugrabbit-boop/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/bugrabbit-boop/leetcode/tree/master/0006-zigzag-conversion) |
@@ -93,36 +94,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/bugrabbit-boop/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bugrabbit-boop/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/bugrabbit-boop/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bugrabbit-boop/leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bugrabbit-boop/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bugrabbit-boop/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bugrabbit-boop/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bugrabbit-boop/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bugrabbit-boop/leetcode/tree/master/0035-search-insert-position) |
@@ -130,13 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/bugrabbit-boop/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/bugrabbit-boop/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bugrabbit-boop/leetcode/tree/master/0013-roman-to-integer) |
@@ -146,63 +147,64 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bugrabbit-boop/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bugrabbit-boop/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bugrabbit-boop/leetcode/tree/main/0050-powx-n/) | Medium |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bugrabbit-boop/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bugrabbit-boop/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bugrabbit-boop/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/bugrabbit-boop/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bugrabbit-boop/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bugrabbit-boop/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bugrabbit-boop/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Euclidean Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Greatest Common Divisor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->

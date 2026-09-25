@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bugrabbit-boop/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/bugrabbit-boop/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bugrabbit-boop/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bugrabbit-boop/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/bugrabbit-boop/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/bugrabbit-boop/leetcode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bugrabbit-boop/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bugrabbit-boop/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

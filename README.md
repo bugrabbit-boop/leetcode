@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bugrabbit-boop/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/bugrabbit-boop/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/bugrabbit-boop/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/bugrabbit-boop/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/bugrabbit-boop/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bugrabbit-boop/leetcode/tree/main/0125-valid-palindrome/) | Easy |

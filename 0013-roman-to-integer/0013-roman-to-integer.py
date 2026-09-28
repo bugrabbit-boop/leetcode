@@ -4,10 +4,9 @@ class Solution:
         res=0
         for i in range(len(s)):
             curr=roman[s[i]]
-            next_val=roman[s[i+1]]if i+1 < len(s)  else 0
+            next_val=roman[s[i+ 1]] if i+1 < len(s) else 0
             if curr < next_val:
-                res  -= curr
+                res-=curr
             else:
-                res +=curr
+                res+=curr
         return res
-        

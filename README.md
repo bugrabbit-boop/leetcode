@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bugrabbit-boop/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bugrabbit-boop/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bugrabbit-boop/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bugrabbit-boop/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1757-recyclable-and-low-fat-products](https://github.com/bugrabbit-boop/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
 | ------- |

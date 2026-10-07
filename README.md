@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/bugrabbit-boop/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0283-move-zeroes) |
+| [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bugrabbit-boop/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/bugrabbit-boop/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
+| [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bugrabbit-boop/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bugrabbit-boop/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/bugrabbit-boop/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/bugrabbit-boop/leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |

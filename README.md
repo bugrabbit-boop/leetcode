@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bugrabbit-boop/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bugrabbit-boop/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/bugrabbit-boop/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/bugrabbit-boop/leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bugrabbit-boop/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/bugrabbit-boop/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/bugrabbit-boop/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/bugrabbit-boop/leetcode/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bugrabbit-boop/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

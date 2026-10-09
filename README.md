@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bugrabbit-boop/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bugrabbit-boop/leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/bugrabbit-boop/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/bugrabbit-boop/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/bugrabbit-boop/leetcode/tree/master/0441-arranging-coins) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bugrabbit-boop/leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bugrabbit-boop/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

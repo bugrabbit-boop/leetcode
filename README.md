@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bugrabbit-boop/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bugrabbit-boop/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/bugrabbit-boop/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bugrabbit-boop/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/bugrabbit-boop/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Simulation
 |  |
 | ------- |

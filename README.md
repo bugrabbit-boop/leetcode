@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bugrabbit-boop/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/bugrabbit-boop/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bugrabbit-boop/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/bugrabbit-boop/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bugrabbit-boop/leetcode/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/bugrabbit-boop/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/bugrabbit-boop/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bugrabbit-boop/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |

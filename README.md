@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/bugrabbit-boop/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bugrabbit-boop/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bugrabbit-boop/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/bugrabbit-boop/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bugrabbit-boop/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/bugrabbit-boop/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/bugrabbit-boop/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/bugrabbit-boop/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bugrabbit-boop/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bugrabbit-boop/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/bugrabbit-boop/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/bugrabbit-boop/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |

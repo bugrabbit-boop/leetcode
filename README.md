@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bugrabbit-boop/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/bugrabbit-boop/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bugrabbit-boop/leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/bugrabbit-boop/leetcode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/bugrabbit-boop/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/bugrabbit-boop/leetcode/tree/master/0605-can-place-flowers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bugrabbit-boop/leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/bugrabbit-boop/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bugrabbit-boop/leetcode/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/bugrabbit-boop/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/bugrabbit-boop/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/bugrabbit-boop/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bugrabbit-boop/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bugrabbit-boop/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/bugrabbit-boop/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/bugrabbit-boop/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bugrabbit-boop/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/bugrabbit-boop/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bugrabbit-boop/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bugrabbit-boop/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
 |  |
 | ------- |
